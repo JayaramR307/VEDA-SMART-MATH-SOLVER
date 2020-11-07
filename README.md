@@ -1,16 +1,25 @@
-# text_recog
+# VEDA - AR INTEGRATED SMART MATH SOLVER
 
-A new Flutter application.
+![App Icon](https://github.com/JayaramR307/VEDA-SMART-MATH-SOLVER/blob/master/Images/VEDA-ICON.png)
 
-## Getting Started
+Partnership between AI and AR is likely to have a profound impact on customer experience.
+AI enables AR to have a multidimensional interaction with the physical environment.
+Demand for AR apps gradually increased.
+Applications: Speech and Image recognition, Human pose estimation, Education.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Introducing Veda, an app which makes mathematics no more a nightmare.
+Can be used by anyone who does mathematical problems; to improve learning and also cross check solutions.
+Points the camera to a math problem, using the training model and databases stored, shows the step-by-step solution in real time using AR.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+![Splash Screen](https://github.com/JayaramR307/VEDA-SMART-MATH-SOLVER/blob/master/Images/Splash%20Screen.png)
+![Home Screen](https://github.com/JayaramR307/VEDA-SMART-MATH-SOLVER/blob/master/Images/Home%20%E2%80%93%203.png)
+
+
+Group Members,
+Abraham Tony (02)
+Gokul Krishna JK (26)
+Gokul Krishna B (27)
+Jayaram R (30)
