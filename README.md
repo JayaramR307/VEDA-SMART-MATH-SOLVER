@@ -1,6 +1,6 @@
 # VEDA - AR INTEGRATED SMART MATH SOLVER
 
-![App Icon](https://github.com/JayaramR307/VEDA-SMART-MATH-SOLVER/blob/master/Images/VEDA-ICON.png)
+![App Icon](https://github.com/JayaramR307/VEDA-SMART-MATH-SOLVER/blob/master/Images/VEDA-ICON.png =250x250)
 
 Partnership between AI and AR is likely to have a profound impact on customer experience.
 AI enables AR to have a multidimensional interaction with the physical environment.
@@ -18,8 +18,8 @@ Points the camera to a math problem, using the training model and databases stor
 ![Home Screen](https://github.com/JayaramR307/VEDA-SMART-MATH-SOLVER/blob/master/Images/Home%20%E2%80%93%203.png)
 
 
-Group Members,
-Abraham Tony (02)
-Gokul Krishna JK (26)
-Gokul Krishna B (27)
-Jayaram R (30)
+## Group Members,
+* Abraham Tony (02)
+* Gokul Krishna JK (26)
+* Gokul Krishna B (27)
+* Jayaram R (30)
