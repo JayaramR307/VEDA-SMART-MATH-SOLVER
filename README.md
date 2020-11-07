@@ -1,6 +1,6 @@
 # VEDA - AR INTEGRATED SMART MATH SOLVER
 
-<img src="https://github.com/JayaramR307/VEDA-SMART-MATH-SOLVER/blob/master/Images/VEDA-ICON.png" alt="App Icon" width="400" height="00">
+<img src="https://github.com/JayaramR307/VEDA-SMART-MATH-SOLVER/blob/master/Images/VEDA-ICON.png" alt="App Icon" width="400" height="400">
 
 Partnership between AI and AR is likely to have a profound impact on customer experience.
 AI enables AR to have a multidimensional interaction with the physical environment.
