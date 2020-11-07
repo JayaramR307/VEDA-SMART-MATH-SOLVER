@@ -1,5 +1,6 @@
 # VEDA - AR INTEGRATED SMART MATH SOLVER
 
+<img src="https://github.com/JayaramR307/VEDA-SMART-MATH-SOLVER/blob/master/Images/VEDA-ICON.png" alt="App Icon" width="100" height="100">
 ![App Icon](https://github.com/JayaramR307/VEDA-SMART-MATH-SOLVER/blob/master/Images/VEDA-ICON.png =250x250)
 
 Partnership between AI and AR is likely to have a profound impact on customer experience.
